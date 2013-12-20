@@ -5,6 +5,7 @@ namespace FM\ElFinderPHP\Driver;
 use FM\ElFinderPHP\ElFinder;
 use imagick;
 use ImagickPixel;
+use Exception;
 
 /**
  * Base class for ElFinder volume.
